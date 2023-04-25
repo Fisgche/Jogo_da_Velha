@@ -1,0 +1,14 @@
+[Editors]
+Order=0
+Focused=0
+[Editor_0]
+<<<<<<< HEAD
+CursorCol=38
+CursorRow=127
+TopLine=117
+=======
+CursorCol=1
+CursorRow=8
+TopLine=1
+>>>>>>> e18ea95192f0b2bd2dd4b8b613a7944dfd160139
+LeftChar=1
